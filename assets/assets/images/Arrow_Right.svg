@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow_Right</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arrow_Right">
+            <rect id="Rectangle-10" fill="#F7F8FC" x="0" y="0" width="22" height="22" rx="11"></rect>
+            <polygon id="Shape" fill="#8C96AB" opacity="0.25140388" transform="translate(12.000000, 10.936043) rotate(-92.000000) translate(-12.000000, -10.936043) " points="16.6 7.23604274 12 11.8360427 7.4 7.23604274 6 8.63604274 12 14.6360427 18 8.63604274"></polygon>
+        </g>
+    </g>
+</svg>

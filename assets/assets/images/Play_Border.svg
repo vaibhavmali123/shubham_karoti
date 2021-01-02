@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Play_Border</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Play_Border" transform="translate(1.000000, 1.000000)">
+            <g id="Group-4-Copy-6" opacity="0.185453869" stroke="#979797" stroke-linecap="square">
+                <rect id="Rectangle" x="0" y="0" width="41" height="41" rx="3"></rect>
+            </g>
+            <path d="M18.1624764,12.2589117 L27.642074,19.0300529 C28.5408992,19.6720708 28.7490825,20.921171 28.1070645,21.8199962 C27.9661956,22.0172128 27.7906539,22.1871831 27.588998,22.3216204 L18.1094004,28.6413521 C17.190343,29.254057 15.9486043,29.0057093 15.3358994,28.0866519 C15.1168761,27.7581169 15,27.3721015 15,26.9772515 L15,13.8863786 C15,12.7818091 15.8954305,11.8863786 17,11.8863786 C17.416846,11.8863786 17.8232749,12.0166249 18.1624764,12.2589117 Z" id="Rectangle" fill="#39003E"></path>
+        </g>
+    </g>
+</svg>
